@@ -1,2 +1,0 @@
-# quiz-git-github
-Test
